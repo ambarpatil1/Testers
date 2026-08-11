@@ -1611,4 +1611,33 @@
         <members>n</members>
         <name>BotBlock</name>
     </types>
+    <types>
+        <members>DataCloudGeoLocation</members>
+        <name>CleanDataService</name>
+    </types>
+    <types>
+        <members>Internal Zone</members>
+        <name>Community</name>
+    </types>
+    <types>
+        <members>A1__c.CustomLayout</members>
+        <members>A1__c.TestCompactlayout</members>
+        <members>A5__c.TestCompactlayout</members>
+        <members>A6__c.TestCompactlayout</members>
+        <members>ACCObjTest1__c.S1</members>
+        <members>ACCObjt1__c.S1</members>
+        <members>ACR2__c.Test</members>
+        <members>ACR3__c.Layout_layout</members>
+        <members>ACR4__c.Layout_layout</members>
+        <members>LLC_BI_Loan__c.Compact_layout_1</members>
+        <members>Lead.Cl1</members>
+        <members>NewObj1__c.Account_new</members>
+        <members>Nobj1__c.Account_new</members>
+        <members>SMobj1__c.TestCompactlayout</members>
+        <members>agf__ADM_Scrum_Team__c.agf__Team</members>
+        <members>agf__ADM_Sprint__c.agf__Sprint</members>
+        <members>agf__ADM_Work__c.agf__Work</members>
+        <members>agf__Headcount__c.agf__Position</members>
+        <name>CompactLayout</name>
+    </types>
 </Package>
